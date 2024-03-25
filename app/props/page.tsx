@@ -19,10 +19,10 @@ const Page = () => {
         </div>
       </div>
       <div className="py-6 px-4 flex flex-col gap-6">
-        <div>
+        <div class="text-[36px]">
           <span className="text-xl">
-            <span className="opacity-50">Hi, </span>
-            <span>Enes</span>
+            <span className="opacity-50 text-[36px]">Hi, </span>
+            <span class="text-[36px]">Enes</span>
           </span>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">

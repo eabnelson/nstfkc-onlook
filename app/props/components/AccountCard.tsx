@@ -7,11 +7,11 @@ export const AccountCard = () => {
       <div className="flex flex-col gap-4">
         <div className="grid grid-cols-2">
           <div className="col-span-1 flex flex-col gap-1">
-            <div className="opacity-40 text-xs">ACCOUNT VALUE</div>
+            <div className="opacity-40 text-xs font-bold text-[24px]">ACCOUNT VALUE</div>
             <div>$ 4,895,000</div>
           </div>
           <div className="col-span-1 flex flex-col gap-1">
-            <div className="opacity-40 text-xs">AVAILABLE BALANCE</div>
+            <div className="opacity-40 text-xs text-[24px] font-extrabold">AVAILABLE BALANCE</div>
             <div>$ 4,895,000</div>
           </div>
         </div>
